@@ -1,14 +1,13 @@
-## Ethical perspectives on sources and  transparency in European data journalism
+## Ethical perspectives on sources and transparency in European data journalism
 
-### Repository Contents
+### Repository contents
 
 This repository includes the following resources used in the study:
 
 - **Corpus**: A collection of 37 ethical codes from European press and media councils.
-- **Codebook**: Thematic categories developed for qualitative analysis.
-- **Annotated Data**: Taguette-based annotations of ethical codes.
+- **Codebook and annotated data**: Thematic categories developed for qualitative analysis + Taguette-based annotations of ethical codes.
 
-### Data and Code Availability
+### Data and code availability
 
 The datasets generated and/or analysed during the current study are available in this repository. All code and annotations used for thematic analysis are included to ensure transparency and replicability.
 
