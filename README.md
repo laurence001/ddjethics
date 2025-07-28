@@ -1,4 +1,4 @@
-## Ethical perspectives on sources and transparency in European data journalism
+## Ethics in European data journalism
 
 ### Repository contents
 
