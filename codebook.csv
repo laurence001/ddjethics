@@ -1,0 +1,18 @@
+Tag,Description,Justification (Bradshaw stage),Frequency
+truth/facts,Respect for the facts ,Combine – Applies to ensuring that data analysis reflects reality and avoids selective representation.,71
+privacy,Respect for privacy ,"Compile – Relevant to data collection, especially when handling personal or sensitive data.",54
+distortion/manipulation,Distorted view of reality ,Combine – Addresses risks of bias or misleading results during integration or transformation.,53
+accuracy,Accuracy ,Communicate – Critical in final reporting and ensuring truthful representation of data findings.,49
+access/use,Right to access and use of data ,"Compile – Concerns legal and ethical aspects of accessing data sources (e.g., FOIA, APIs).",43
+verification,Data accuracy verification ,Compile – Involves validating the data before further use.,34
+source/disclosure,Publishing the name of the source,Compile – Reflects transparency and credibility at the data acquisition stage.,31
+fairness,Fairness ,Communicate – Addresses equity and balance in the presentation of findings.,28
+transparency,Transparency ,"Communicate – Pertains to disclosing data sources, methods, and assumptions in published outputs.",26
+source/reliability,Data source reliability ,Compile – Evaluates credibility and trustworthiness of the data at the point of acquisition.,21
+graphics/visualisation,Using graphical material ,"Communicate – Visualisation tools are used in storytelling, where ethical design matters.",17
+responsibility,Responsibiity of the published content,Communicate – Links to accountability for the accuracy and fairness of final journalistic output.,13
+discrimination/stereotypes,Stereotypes and misrepresentation ,Communicate – Important to avoid reinforcing biases when presenting or visualising data.,12
+objectivity,Respecting the truth and objectivity ,Combine – Relevant to interpretation during analysis and combining datasets.,12
+ugc,Handling user generated content ,Compile – User data is part of the raw data collection phase and raises issues of consent and reliability.,6
+surveys/polls,Surveys and polls ,Combine – Involves analytical synthesis and potential sampling or methodological issues.,3
+analysis/statistics,Statistics ,"Combine – Concerns interpretation, statistical reasoning, and possible bias during data processing.",2
