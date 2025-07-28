@@ -5,7 +5,8 @@
 This repository includes the following resources used in the study:
 
 - **Corpus**: A collection of 37 ethical codes from European press and media councils.
-- **Codebook and annotated data**: Thematic categories developed for qualitative analysis + Taguette-based annotations of ethical codes.
+- **Codebook and annotated data**: Thematic categories developed for qualitative analysis.
+- **Annotated data**: Taguette-based annotations of ethical codes.
 
 ### Data and code availability
 
