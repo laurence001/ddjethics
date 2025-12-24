@@ -7,7 +7,7 @@ import seaborn as sns
 
 # Set theme for greyscale-friendly plots
 sns.set_theme(context="notebook", style="whitegrid", font_scale=1.1)
-plt.rcParams["figure.dpi"] = 120
+plt.rcParams["figure.dpi"] = 300
 
 # ==========================
 # Data
@@ -52,9 +52,8 @@ bar_colors = df["Stage"].map(stage_colors).fillna("#999999")
 plt.figure(figsize=(14, 7))
 ax = plt.gca()
 
-ax.bar(df["Tag"], df["Frequency"], color=bar_colors, edgecolor="black")
+ax.bar(df["Tag"], df["Frequency"], color=bar_colors)
 
-ax.set_title("Frequency of Ethical Categories by Bradshaw Stage", fontsize=14)
 ax.set_xlabel("Ethical Category")
 ax.set_ylabel("Frequency (Number of Mentions)")
 ax.yaxis.set_major_locator(MaxNLocator(integer=True))
@@ -68,3 +67,4 @@ plt.tight_layout()
 plt.savefig("frequency_by_stage_greyscale.png", dpi=300)
 plt.savefig("frequency_by_stage_greyscale.svg")
 plt.show()
+
